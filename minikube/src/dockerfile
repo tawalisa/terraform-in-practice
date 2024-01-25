@@ -1,0 +1,4 @@
+FROM python
+WORKDIR /app
+ADD ./index.html index.html
+CMD [ "python3", "-m", "http.server" ]
