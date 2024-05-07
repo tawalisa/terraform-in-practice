@@ -3,7 +3,7 @@
 ## minikube
 
 ### How to get information of k8s
-user `kubectl config vie` to check service IP of k8s
+run `kubectl config vie` to check service IP of k8s
 
 ### How to log for terraform
 enable 
